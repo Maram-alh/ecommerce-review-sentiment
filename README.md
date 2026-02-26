@@ -1,4 +1,6 @@
-Sentiment Analysis of Online Shopping Reviews
+**Sentiment Analysis of Online Shopping Reviews**
+
+
 
 
 📖 **Overview**
@@ -14,8 +16,7 @@ Negative
 The system performs text preprocessing, feature extraction, sentiment scoring, and supervised classification using a Random Forest model.
 
 
-**Technologies Used
-**
+**Technologies Used**
 
 Python
 
@@ -37,8 +38,8 @@ WordCloud
 
 
 
-**Project Workflow
-**
+**Project Workflow**
+
 Data Cleaning
 
 Removed duplicates
