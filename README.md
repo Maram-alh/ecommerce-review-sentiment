@@ -1,5 +1,7 @@
 Sentiment Analysis of Online Shopping Reviews
-📖 Overview
+
+
+📖 **Overview**
 
 This project applies Natural Language Processing (NLP) and Machine Learning techniques to classify online shopping reviews from Amazon and Flipkart into:
 
@@ -11,7 +13,9 @@ Negative
 
 The system performs text preprocessing, feature extraction, sentiment scoring, and supervised classification using a Random Forest model.
 
-Technologies Used
+
+**Technologies Used
+**
 
 Python
 
@@ -31,8 +35,10 @@ Seaborn
 
 WordCloud
 
-Project Workflow
 
+
+**Project Workflow
+**
 Data Cleaning
 
 Removed duplicates
@@ -67,7 +73,8 @@ Random Forest Classifier
 
 80/20 Train-Test Split
 
-Results
+
+**Results**
 
 Accuracy: 100%
 
@@ -75,8 +82,8 @@ Perfect classification on test data
 
 Note: Perfect accuracy may indicate dataset limitations due to small sample size.
 
-Future Improvements
-
+**Future Improvements
+**
 Larger real-world datasets
 
 Deep learning models (LSTM / BERT)
@@ -85,6 +92,6 @@ Cross-validation
 
 Web deployment (Streamlit)
 
-👩‍💻 Author
+👩‍💻 **Author**
 
 Maram Alharbi
