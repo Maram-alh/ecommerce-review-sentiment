@@ -3,7 +3,7 @@
 
 ---
 
-📖 **Overview**
+📖 ## **Overview**
 
 This project applies Natural Language Processing (NLP) and Machine Learning techniques to classify online shopping reviews from Amazon and Flipkart into:
 
